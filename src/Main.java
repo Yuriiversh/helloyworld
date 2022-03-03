@@ -7,5 +7,6 @@ public class Main {
         phone1.soft="android";
         System.out.println(phone1.model);
         System.out.println(phone1.num);
+        System.out.println("Ok");
     }
 }
